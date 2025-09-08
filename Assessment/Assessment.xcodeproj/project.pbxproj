@@ -26,28 +26,16 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
-				responses/0ffyf9wd9jrk.json,
 			);
 			target = 3E6DD2652E4A2E1A00075474 /* Assessment */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		3E6DD29C2E4A314700075474 /* Exceptions for "Assessment" folder in "Compile Sources" phase from "Assessment" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = 3E6DD2622E4A2E1A00075474 /* Sources */;
-			membershipExceptions = (
-				responses/0ffyf9wd9jrk.json,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3E6DD2682E4A2E1A00075474 /* Assessment */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				3E6DD28E2E4A2E1C00075474 /* Exceptions for "Assessment" folder in "Assessment" target */,
-				3E6DD29C2E4A314700075474 /* Exceptions for "Assessment" folder in "Compile Sources" phase from "Assessment" target */,
 			);
 			path = Assessment;
 			sourceTree = "<group>";
