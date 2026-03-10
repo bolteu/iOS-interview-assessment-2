@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Assessment
-//
-//  Created by Stanislav Sarychev on 11.08.2025.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
@@ -16,7 +9,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
 
         let window = UIWindow(windowScene: windowScene)
-        window.rootViewController = UINavigationController(rootViewController: ViewController())
+        window.rootViewController = UINavigationController(rootViewController: OrderHistoryViewController())
         self.window = window
         window.makeKeyAndVisible()
     }

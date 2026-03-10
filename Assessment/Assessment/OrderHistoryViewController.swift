@@ -1,13 +1,6 @@
-//
-//  ViewController.swift
-//  Assessment
-//
-//  Created by Stanislav Sarychev on 11.08.2025.
-//
-
 import UIKit
 
-class ViewController: UITableViewController {
+class OrderHistoryViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -18,14 +11,13 @@ class ViewController: UITableViewController {
 }
 
 // MARK: - UITableViewDataSource
-extension ViewController {
+extension OrderHistoryViewController {
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return 10
     }
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "cell")
-            ?? UITableViewCell(style: .default, reuseIdentifier: "cell")
+        let cell = tableView.dequeueReusableCell(withIdentifier: "cell")!
         cell.textLabel?.text = "Row \(indexPath.row + 1)"
         return cell
     }

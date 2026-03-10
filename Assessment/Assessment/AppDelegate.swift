@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Assessment
-//
-//  Created by Stanislav Sarychev on 11.08.2025.
-//
-
 import UIKit
 
 @main
