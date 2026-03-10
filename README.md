@@ -14,7 +14,7 @@ Some basic implementations are already presented in the code below.
 
 What should be taken into account:
 
-- You can use any tools and any libraries (even Google)
+- You can use any tools and any libraries (even Google), but **no AI-assisted tools**
 - You can use any architecture
 - You can use Swift
 - Your solution should support later replacement local JSON with network results
