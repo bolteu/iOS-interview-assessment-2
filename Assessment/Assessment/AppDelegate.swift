@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Assessment
-//
-//  Created by Stanislav Sarychev on 11.08.2025.
-//
-
 import UIKit
 
 @main
@@ -20,4 +13,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
     }
 }
-
