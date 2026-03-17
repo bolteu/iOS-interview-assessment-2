@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "title": "Home → Office",
+            "subtitle": "Ride #1025 on 2025-07-04 08:31",
+            "value": "$25.28",
+            "iconName": "clock.fill"
+        },
+        {
+            "title": "Hotel → Conference Center",
+            "subtitle": "Ride #1026 on 2025-06-17 00:55",
+            "value": "$36.20",
+            "iconName": "location.fill"
+        },
+        {
+            "title": "Cafe → Train Station",
+            "subtitle": "Ride #1027 on 2025-07-24 08:34",
+            "value": "$60.19",
+            "iconName": "dollarsign.circle.fill"
+        },
+        {
+            "title": "Central Station → Airport",
+            "subtitle": "Ride #1028 on 2025-08-07 15:51",
+            "value": "$40.85",
+            "iconName": "clock.fill"
+        },
+        {
+            "title": "Mall → Cinema",
+            "subtitle": "Ride #1029 on 2025-08-07 23:41",
+            "value": "$24.57",
+            "iconName": "mappin.and.ellipse"
+        },
+        {
+            "title": "Library → Hospital",
+            "subtitle": "Ride #1030 on 2025-08-10 13:05",
+            "value": "$54.48",
+            "iconName": "location.fill"
+        },
+        {
+            "title": "Hotel → Conference Center",
+            "subtitle": "Ride #1031 on 2025-07-24 17:42",
+            "value": "$38.46",
+            "iconName": "mappin.and.ellipse"
+        },
+        {
+            "title": "Central Station → Airport",
+            "subtitle": "Ride #1032 on 2025-06-28 00:51",
+            "value": "$6.65",
+            "iconName": "car.fill"
+        },
+        {
+            "title": "Mall → Cinema",
+            "subtitle": "Ride #1033 on 2025-06-12 07:58",
+            "value": "$18.23",
+            "iconName": "location.fill"
+        },
+        {
+            "title": "Cafe → Train Station",
+            "subtitle": "Ride #1034 on 2025-07-28 12:19",
+            "value": "$62.31",
+            "iconName": "location.fill"
+        },
+        {
+            "title": "Hotel → Conference Center",
+            "subtitle": "Ride #1035 on 2025-07-25 05:50",
+            "value": "$70.85",
+            "iconName": "clock.fill"
+        },
+        {
+            "title": "Park → Museum",
+            "subtitle": "Ride #1036 on 2025-07-01 06:06",
+            "value": "$6.78",
+            "iconName": "location.fill"
+        },
+        {
+            "title": "Home → Office",
+            "subtitle": "Ride #1037 on 2025-06-21 20:28",
+            "value": "$75.63",
+            "iconName": "clock.fill"
+        },
+        {
+            "title": "Downtown → University",
+            "subtitle": "Ride #1038 on 2025-07-16 07:05",
+            "value": "$78.92",
+            "iconName": "location.fill"
+        },
+        {
+            "title": "Hotel → Conference Center",
+            "subtitle": "Ride #1039 on 2025-07-17 06:35",
+            "value": "$13.15",
+            "iconName": "location.fill"
+        }
+    ],
+    "nextCursor": null
+}

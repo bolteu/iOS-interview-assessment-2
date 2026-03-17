@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "3CE638F5-3387-4F66-864F-42920757F885",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Assessment.xcodeproj",
+      "identifier" : "3E6DD2652E4A2E1A00075474",
+      "name" : "Assessment"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:Assessment.xcodeproj",
+        "identifier" : "3E6DD27B2E4A2E1C00075474",
+        "name" : "AssessmentTests"
+      }
+    }
+  ],
+  "version" : 1
+}

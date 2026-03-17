@@ -17,6 +17,7 @@ What should be taken into account:
 - You can use any tools and any libraries (even Google), but **no AI-assisted tools**
 - You can use any architecture
 - You can use Swift
+- You can choose between UIKit or SwiftUI projects
 - Your solution should support later replacement local JSON with network results
 
 ## Main criteria
